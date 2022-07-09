@@ -1,0 +1,28 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer utilities {
+    .word-spacing {
+        word-spacing: 1px; 
+    }
+
+    .content {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .text-stroke {
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: white;
+        opacity: .2;
+    }
+}
+
+/* michroma-regular - latin */
+@font-face {
+    font-family: 'Michroma';
+    font-style: bold;
+    font-weight: 900;
+    src: url('./assets/fonts/MicroExtendFLF-Bold.ttf'); /* IE9 Compat Modes */
+}
