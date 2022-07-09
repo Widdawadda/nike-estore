@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nike-estore/static/css/main.3ac77594.css",
+    "main.js": "/nike-estore/static/js/main.2d37888e.js",
+    "static/media/young-man.png": "/nike-estore/static/media/young-man.d674ff83828d79feb122.png",
+    "static/media/orange_shoe.png": "/nike-estore/static/media/orange_shoe.7c53aea5d70843147f8b.png",
+    "static/media/product.png": "/nike-estore/static/media/product.0a054d295925bdb50ef1.png",
+    "static/media/shoe-pair.png": "/nike-estore/static/media/shoe-pair.8d518f42c10460d8c6e4.png",
+    "static/media/old-man.png": "/nike-estore/static/media/old-man.9fadeeabea61dacb4eeb.png",
+    "static/media/shoe.png": "/nike-estore/static/media/shoe.408c972442d879f9b260.png",
+    "static/media/MicroExtendFLF-Bold.ttf": "/nike-estore/static/media/MicroExtendFLF-Bold.88016c991d5b499723a5.ttf",
+    "index.html": "/nike-estore/index.html",
+    "main.3ac77594.css.map": "/nike-estore/static/css/main.3ac77594.css.map",
+    "main.2d37888e.js.map": "/nike-estore/static/js/main.2d37888e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac77594.css",
+    "static/js/main.2d37888e.js"
+  ]
+}
